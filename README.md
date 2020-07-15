@@ -1,2 +1,2 @@
 # deface_script
-the used to change the theam of a website 
+this code is used to change the theam are content of a website 
